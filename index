@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>index</title>
+</head>
+<body>
+<table>
+	<tr>
+		<td><a href="index.html">preview</a></td>
+		<td><a href="mate50.html">5G</a></td>
+	</tr>
+	</table>
+<br/>
+<div class="article">
+<h1>5G</h1>
+5G产业在标准、产品、终端、安全、商业等各领域已经准备就绪。我们将联合客户与伙伴共同把握5G带来的创新机遇，共同开创5G时代。
+<img src="images/5g1.png" alt="">
+<p>
+	<h1>5G生态沃土</h1>
+
+	作为5G的领导者，华为率先推出了业界标杆5G多模芯片解决方案巴龙5000，是全球首个提供端到端产品和解决方案的公司。
+
+2019年是5G商用元年，也是华为在5G领域的又一个推进。目前，<a href="https://consumer.huawei.com/cn/phones/mate50/">华为Mate 50</a>、5G CPE Pro已经获得了中国5G终端电信设备进网许可证，并即将推出5G MiFi、5G车载模组、5G电视等多种形态的5G终端，加速5G规模商用。
+
+当前，千行百业正在拥抱5G，华为模块化、全系列产品解决方案，为运营商构建了绿色、融合、极简的5G商用网络，使能新增长。
+</p>
+<p>
+	<h1>云网融合</h1>
+
+    云成为运营商B2B业务的统一平台和入口。通过云网融合打造云+网+X一站式B2B新业务，构筑运营商差异化优势，打造新商业模式，促进B2B业务新增长，开创B2B业务新时代。
+
+</p>
+</div>
+</body>
+</html>
