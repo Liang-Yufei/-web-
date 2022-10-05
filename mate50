@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>mate 50</title>
+
+</head>
+<body>
+<table>
+	<tr>
+		<td><a href="index.html">preview</a></td>
+		<td><a href="mate50.html">mate 50</a></td>
+	</tr>
+</table>
+<h1>华为mate50</h1>
+<p>承袭 Mate 家族标志性对称基因，融入巴黎饰钉设计理念，秩⁠序之美和非凡细节交相辉映。昆仑破晓，划⁠破苍穹；昆仑霞⁠光，普照万山；冰霜银、曜金黑、流光紫，映见宇宙的神秘与未⁠知。</p>
+<img src="images/华为mate50.png" alt="">
+<p>
+	首款支持<a href="http://www.beidou.gov.cn/">北斗卫星</a>消息⁠3的华为手机，无地面网络信号时，仍能通过畅连发送文字和位置信息。多⁠条位置可生成轨迹地图，清晰指引方向。突破地面网络限制，与世界安心畅连。
+</p>
+<p>
+	超空间存储压缩
+重复文件只占一份空间，低频应用无损压缩，重新打开无感畅快。最多节省 20 GB 可用空间⁠，存储更多照片和视⁠频。
+<br/>
+超帧游戏引擎⁠
+像素级帧间预测技术，高帧率更稳定；降低功耗，有效控温，游戏续航更持久，畅玩无限精⁠彩。
+<br/>
+超级内存管理
+操作快速响应，应用高速启动，信息疾速浏览，流⁠畅体验，更进一步。
+</p>
+</body>
+</html>
