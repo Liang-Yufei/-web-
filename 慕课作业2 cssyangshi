@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css">
+        table{
+            width: 300px;
+        }
+        th{
+            background-color: #3cc;
+            text-align: center;
+            font-size: 18px;
+            line-height: 3em;
+        }
+        td{
+            color: white;
+            background-color: black;
+            font-size: 12px;
+        }
+        a{
+            color: white;
+            text-decoration: none;
+        }
+        a:hover{
+            color: black;
+	        background-color: white;
+        }
+        ul{
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <table>
+        <tr>
+            <th>外国最经典的文学名著</th>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li><a href="https://book.douban.com/subject/1880825/">希腊神话--古希腊文明的瑰宝</a></li>
+                    <li><a href="https://book.douban.com/subject/2161691/">伊索寓言--一部经典的语言故事集</a></li>
+                    <li><a href="https://book.douban.com/subject/25837854/">荷马史诗--横亘千古的文学瑰宝</a></li>
+                    <li><a href="https://book.douban.com/subject/1076330/">俄狄浦斯王--古希腊悲剧的典范</a></li>
+                    <li><a href="https://book.douban.com/subject/1803022/">圣经--基督教的经典著作</a></li>
+                    <li><a href="https://book.douban.com/subject/1006113/">源氏物语--日本古代文学的瑰宝</a></li>
+                    <li><a href="https://book.douban.com/subject/2193879/">神曲--中世纪的伟大创作</a></li>
+                    <li><a href="https://book.douban.com/subject/1279212/">十日谈--欧洲第一部现实主义小说</a></li>
+                    <li><a href="https://book.douban.com/subject/1163327/">列那狐的故事--法国伟大的民间长篇故事诗</a></li>
+                    <li><a href="https://book.douban.com/subject/1130069/">巨人传--一部荒诞不经的幽默小说</a></li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
